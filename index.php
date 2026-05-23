@@ -1,2 +1,4 @@
 <?php
-phpinfo();
+
+header('Location: login.php');
+exit;
